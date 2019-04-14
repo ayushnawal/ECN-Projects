@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sim_1/new/test_clk.v,1549884212,verilog,,,,test_clk,,,,,,,,
+C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/Clock_generator.v,1549886244,verilog,,C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/clock_divider2.v,,Clock_generator,,,,,,,,
+C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/clock_divider.v,1549882020,verilog,,C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/stopwatch.v,,clock_divider,,,,,,,,
+C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/clock_divider2.v,1549885829,verilog,,C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/stopwatch.v,,clock_divider2,,,,,,,,
+C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sources_1/new/stopwatch.v,1549886269,verilog,,C:/Users/Abhishek/Desktop/DLD Lab/HomeWork_Stopwatch/HomeWork_Stopwatch.srcs/sim_1/new/test_clk.v,,stopwatch,,,,,,,,
